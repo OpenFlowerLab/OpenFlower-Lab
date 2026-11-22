@@ -1,0 +1,33 @@
+﻿五色实验室
+更新日期：2026年11月22日
+1、地址：亚洲  中国  江西省  南昌市
+2、实验装备 //产品
+   2.1  拓竹A1  3D打印机*1   //3D动漫手办
+   2.2  58mm 吧唧制作机*1  //动漫角色吧唧
+   2.3  电烙铁*1                    //无
+   2.4  热熔胶枪*2               //Kig系Furry兽头、兽尾
+3、实验室标志
+    3.1  实验室旗帜为flag.png，白色代表纯洁，绽放的花朵代表技术公开共享，烧瓶代表脚踏实地的实践。
+    3.2  实验室徽标为logo.png，
+    3.3  实验室主题曲为song.mp4
+    3.4  实验室吉祥物为cat.png
+4、实验目的
+     4.1  为了促进地区发展，如江西省、东南亚
+     4.2  为了把动漫角色变成实体玩具，如3D手办、吧唧
+
+OpenFlower Lab
+Newest version: 2026.11.22
+1. Location: Nanchang City, Jiangxi Prov., China, Asia
+2. Gears // Products
+   2.1 Bambu Lab A1 3D Printer*1// 3D anime figures
+   2.2 58mm badge making machine*1// badges of anime characters
+   2.3 Electric soldering iron*1// None
+   2.4 Hot glue gun*2// Kigurumi furry cosplay headgear
+3. Symbols of the lab
+   3.1 flag.png is the flag of the lab. White=purity, blooming flower=open source and sharing, flask=doing solid work.
+   3.2 logo.png is the logo of the lab.
+   3.3 song.mp4 is the anthem of the lab.
+   3.4 cat.png is the mascot of the lab.
+4. The purpose of the lab
+   4.1 To boost regional development, such as Jiangxi Prov. and Southeast Asia.
+   4.2 To transform anime characters into physical toys.
